@@ -42,3 +42,17 @@
     transform: rotate(360deg);
   }
 }
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: cover;
+  align-items: center;
+  font-size: calc();
+  color: whitesmoke;
+}
+.App-link {
+  color: skyblue;
+}
+.search-bar {
+  color: black;
+}
