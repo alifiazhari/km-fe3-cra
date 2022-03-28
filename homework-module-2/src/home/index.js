@@ -1,4 +1,5 @@
 import "./styles.css";
+import "./src/component/img";
 
 export default function selectForm() {
   return (
