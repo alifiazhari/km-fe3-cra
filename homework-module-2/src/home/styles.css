@@ -15,4 +15,6 @@
   input {
     margin: 10px;
   }
-  
+  a {
+    text-align: center;
+  }
