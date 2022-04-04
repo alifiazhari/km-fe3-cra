@@ -18,3 +18,7 @@
   a {
     text-align: center;
   }
+
+  music-list {
+    text-align: 0 auto;
+  }
