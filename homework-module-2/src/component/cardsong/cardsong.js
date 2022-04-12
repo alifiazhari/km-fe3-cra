@@ -11,6 +11,12 @@ function CardSong () {
             <h2>Song Title : Bohemian Rhapsody</h2>
             <h2>Song Artist : QUEEN</h2>
             <div className= "button-component">Select</div>
+
+            <div class="flex-container">
+            <div>Song Title</div>
+            <div>Artist</div>
+            <div>Albums Name</div>
+            </div>
             
         </div>
     );

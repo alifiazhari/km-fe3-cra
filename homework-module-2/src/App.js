@@ -1,7 +1,6 @@
 
 import './App.css';
 import "./styles.css";
-import Form from "./home/index.js";
 import CardSong from "./src/component/Cardsong";
 
 function App() {
@@ -9,9 +8,5 @@ function App() {
     <CardSong />
   );
 }
-export default function App() {
-  return <Form />;
-}
-
 export default App;
 
