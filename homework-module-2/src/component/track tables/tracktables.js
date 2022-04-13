@@ -1,3 +1,4 @@
+import './tracktables.css';
 function TrackTables () {
     return (
         <div class="grid-container">
