@@ -1,4 +1,4 @@
-import "./styles.css";
+import "./styles";
 import "./src/component/img";
 
 function () {
@@ -30,11 +30,11 @@ function () {
 );
 export default function selectForm() {
   return (
-    <><head>
+  <><head>
       <title>GENERASI GIGIH 2.0 HOMEWORK</title>
       <meta charset="UTF-8" />
-      <link rel stylesheet />" href="src/styles.css" />
-      <button onclicks="myFunction" />()>Submit<button>
+      <link rel stylesheet />" href="src/styles.css" /&gt;
+      <button onclicks="myFunction" />()&gt;Submit<button>
       </></head><form>
         <input type="text" id="searchBar" placeholder="Select"></input>
         <input type="submit" id="searchBtn" value="Select"></input>
@@ -43,9 +43,8 @@ export default function selectForm() {
             src="https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png"
             alt="pic" />
         </div>
-      </form>
-      <a href="https://developer.spotify.com/documentation/general/guides/authorization/">Spotify Auth API</a></></>     
+      </form><a href="https://developer.spotify.com/documentation/general/guides/authorization/">Spotify Auth API</a>    
       <div id="music_list">
       <audio controls autoplay></audio>
       </div>
-}
+&rbrace;
